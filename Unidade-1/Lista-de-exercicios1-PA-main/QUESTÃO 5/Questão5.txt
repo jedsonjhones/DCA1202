@@ -1,0 +1,6 @@
+contador / valor / valor / endereço / endereço
+
+
+Como espererado os valores condizem com o primeiro "printf". 
+o último trecho "printf (" (f +% d) =% X ", i, f + i);" funciona por que quando "f = vet" o endereço do array está sendo
+passado implicitamente.

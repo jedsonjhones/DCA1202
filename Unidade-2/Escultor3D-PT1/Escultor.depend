@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1638359743 source:c:\users\paulo\downloads\nova pasta\pa\escultor\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"escultor.h"
+
+1638359948 source:c:\users\paulo\downloads\nova pasta\pa\escultor\escultor.cpp
+	<fstream>
+	<string>
+	<iomanip>
+	"escultor.h"
+
+1638159761 c:\users\paulo\downloads\nova pasta\pa\escultor\escultor.h
+	<iostream>
+
+1638359743 source:c:\users\jhoni\desktop\dca1202\unidade-2\escultor3d-pt1\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"escultor.h"
+
+1638159761 c:\users\jhoni\desktop\dca1202\unidade-2\escultor3d-pt1\escultor.h
+	<iostream>
+
+1656923998 source:c:\users\jhoni\desktop\dca1202\unidade-2\escultor3d-pt1\escultor.cpp
+	<fstream>
+	<string>
+	<iomanip>
+	"escultor.h"
+

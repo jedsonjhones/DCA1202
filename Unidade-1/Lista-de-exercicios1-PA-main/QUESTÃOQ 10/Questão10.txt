@@ -1,0 +1,3 @@
+Ao implementar o Programa no meu computador as variaveis tipo char, float e double condizem com os do exercício
+ocupam respectivamente 1, 4 e 8 bytes de memoria. Mais as do tipo int também estavam ocupando 4 bytes de memoria, 
+diferente do exercicio que é 2 bytes.

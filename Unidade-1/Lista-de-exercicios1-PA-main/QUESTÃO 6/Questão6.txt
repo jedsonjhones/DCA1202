@@ -1,0 +1,6 @@
+I) *(pulo + 2); | Conteudo da posição 3
+II) *(pulo + 4); | Conteudo da posição 5
+III) pulo + 4; | Endereço da posição 5
+IV) pulo + 2; | Endereço da posição 3
+
+Resposta: opção I

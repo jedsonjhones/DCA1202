@@ -1,0 +1,3 @@
+a) O programa irá mostrar na tela os valores de cada um dos endereços do array "vet", em sequência: "4 9 13"
+
+b) O programa irá mostrar na tela os endereços de cada posição do vetor "vet" em sequência.

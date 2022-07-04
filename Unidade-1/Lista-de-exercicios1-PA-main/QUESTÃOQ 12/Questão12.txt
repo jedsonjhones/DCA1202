@@ -1,0 +1,2 @@
+Assim como existem ponteiros para área de dados, existem também ponteiros para funções.
+E ponteiros para funções guardam endereços de áreas de código.

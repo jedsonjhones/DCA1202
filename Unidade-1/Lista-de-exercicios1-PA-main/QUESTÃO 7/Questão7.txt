@@ -1,0 +1,4 @@
+I) p = tapete + 1; || válido: "p" é uma variável para endereço e "mat + 1" é um endereço
+II) p = tapete ++; | inválido: não se pode incrementar um array dessa forma
+III) p = ++ tapete; | inválido: não se pode incrementar um array dessa forma
+IV) x = (* tapete) ++; | válido: "x" é variavel para inteiro e "(* mat) ++" é o conteúdo do array mat [0] incrementado em 1 na próxima operação.

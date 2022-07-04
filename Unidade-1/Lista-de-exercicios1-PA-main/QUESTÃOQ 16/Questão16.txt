@@ -1,0 +1,22 @@
+A biblioteca <time.h> possui uma função chamada "clock_t", que podemos utilizar para a medição do tempo de execução de uma
+determinada parte do programa. Ao testar nos dois problemas de ordenação anteriores, ambos tiveram os resultados sendo 0 segundos. 
+
+
+A seguir o exemplo de como fiz para calcular esse tempo: 
+
+#include <stdio.h>
+#include <time.h>
+
+int main ()
+{
+  clock_t t;
+  t = clock();
+
+      (trecho de codigo que queremos calcular o tempo de execução)
+
+  t = clock() - t;
+
+  printf ("Isso me custou %d clicks (%f segundos).\n",t,((float)t)/CLOCKS_PER_SEC);
+
+  return 0;
+}

@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1643338035 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\putsphere.cpp
+	"PutSphere.h"
+	<iostream>
+
+1643242968 c:\users\paulo\downloads\nova pasta\pa\escultor2\putsphere.h
+	<iostream>
+	"FiguraGeometrica.h"
+
+1643236093 c:\users\paulo\downloads\nova pasta\pa\escultor2\figurageometrica.h
+	"sculptor.h"
+
+1643338822 c:\users\paulo\downloads\nova pasta\pa\escultor2\sculptor.h
+	<iostream>
+
+1643338660 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	<iostream>
+
+1643296918 c:\users\paulo\downloads\nova pasta\pa\escultor2\cutellipsoid.h
+	"FiguraGeometrica.h"
+
+1643338642 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\putellipsoid.cpp
+	"PutEllipsoid.h"
+	<iostream>
+
+1643296125 c:\users\paulo\downloads\nova pasta\pa\escultor2\putellipsoid.h
+	<iostream>
+	"FiguraGeometrica.h"
+
+1643338813 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\sculptor.cpp
+	<fstream>
+	<string>
+	<iomanip>
+	"sculptor.h"
+
+1643245994 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\cutvoxel.cpp
+	"CutVoxel.h"
+	<iostream>
+
+1643325982 c:\users\paulo\downloads\nova pasta\pa\escultor2\cutvoxel.h
+	<iostream>
+	"FiguraGeometrica.h"
+
+1643326236 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\cutbox.cpp
+	"CutBox.h"
+	<iostream>
+
+1643323218 c:\users\paulo\downloads\nova pasta\pa\escultor2\cutbox.h
+	<iostream>
+	"FiguraGeometrica.h"
+
+1643338717 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\cutsphere.cpp
+	"CutSphere.h"
+	<iostream>
+
+1643243358 c:\users\paulo\downloads\nova pasta\pa\escultor2\cutsphere.h
+	<iostream>
+	"FiguraGeometrica.h"
+
+1643326273 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\putbox.cpp
+	"PutBox.h"
+	<iostream>
+
+1643322747 c:\users\paulo\downloads\nova pasta\pa\escultor2\putbox.h
+	<iostream>
+	"FiguraGeometrica.h"
+
+1643245928 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\putvoxel.cpp
+	"PutVoxel.h"
+	<iostream>
+
+1643326287 c:\users\paulo\downloads\nova pasta\pa\escultor2\putvoxel.h
+	<iostream>
+	"FiguraGeometrica.h"
+
+1643476516 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\main.cpp
+	"FiguraGeometrica.h"
+	"interpretador.h"
+	<iostream>
+	<vector>
+
+1643317548 c:\users\paulo\downloads\nova pasta\pa\escultor2\interpretador.h
+	"FiguraGeometrica.h"
+	<string>
+	<vector>
+	<iostream>
+
+1643476492 source:c:\users\paulo\downloads\nova pasta\pa\escultor2\interpretador.cpp
+	<vector>
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+	"Interpretador.h"
+	"PutVoxel.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"CutBox.h"
+	"PutSphere.h"
+	"CutSphere.h"
+	"PutEllipsoid.h"
+	"CutEllipsoid.h"
+

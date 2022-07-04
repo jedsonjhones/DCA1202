@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main () {
+    int i = 3, j = 5;
+    int * p, * q;
+    p = & i; // p recebe o endereço da variável i;
+    q = & j; // q recebe o endereço da variável j;
+    p == & i; // p é igual ao endereço de i;
+    * p - * q; // conteudo do endereço armazenado em p - conteudo do endereço armazenado em q => 3 - 5 = -2;
+    ** & p; // aciona o conteudo do endereço do ponteiro p (* & p), que é o endereço da variavel i, e então aciona seu conteudo (** & p), mostrando o valor armazendo em i que é 3;
+    3 - * p / (* q) + 7; // 3 - 3/5 + 7 => 3 - 0 + 7 = 10;
+
+    return 0;
+}
